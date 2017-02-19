@@ -1,6 +1,3 @@
 # Hexter 
 
-coded = poorya samimi
-size = 19 KB
-test os = win, linux
-version = 1.0
+برنامه ای برای پیدا کردن صفحه ی ادمین در سایت ها
