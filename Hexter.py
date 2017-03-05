@@ -1,13 +1,14 @@
 #!/usr/bin/python
-
+# coded by computer_loveer
+# instagram : computer_loveer
 import urllib
 
 print('''
-	     =================================
-	      [+]       IRANONYMOUS           [+]
-		[+]    CODER : POORYA1234       [+]
+	    	 =================================
+	      	[+]       ADMIN FINDER          [+]
+		[+]  CODER : computer_loveer    [+]
 		[+]       ADMIN FINDER          [+]
-		[+] http://www.iranonymous.org/ [+]
+		[+] instagram:  computer_loveer [+]
 		 =================================
 ''')
 
